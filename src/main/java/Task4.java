@@ -1,12 +1,18 @@
 import java.io.IOException;
 import java.util.Scanner;
 
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+
 public class Task4 {
-    public static void main(String args[]) throws IOException {
+
+  private static final Logger logger = LogManager.getLogger(Task4.class);
+
+  public static void main(String args[]) throws IOException {
         Scanner s =new Scanner(System.in);
-        System.out.write("Enter 1 for calculating SI or CI".getBytes());
-        System.out.write("\nEnter 2 to calculate the cost of construction".getBytes());
-        System.out.write("\nEnter 3 to exit".getBytes());
+        logger.info("Enter 1 for calculating SI or CI");
+        logger.info("Enter 2 to calculate the cost of construction");
+        logger.info("Enter 3 to exit");
         int choose=s.nextInt();
         switch (choose){
             case 1:
@@ -20,7 +26,7 @@ public class Task4 {
             case 3:
                 System.exit(0);
             default:
-                System.out.write("invalid choice".getBytes());
+              logger.error("invalid choice");
         }
     }
 }

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40b71f42-60e0-4a72-9f24-1101b954267e" name="Default Changelist" comment="" />
+    <list default="true" id="40b71f42-60e0-4a72-9f24-1101b954267e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Construction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Construction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterestCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterestCal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Construction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Construction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterestCal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterestCal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Task4.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,6 +28,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,10 +40,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1XvGCOs26z7UT2YisB05dWqpQpc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -77,11 +95,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581919026021</updated>
-      <workItem from="1581919029161" duration="3592000" />
+      <workItem from="1581919029161" duration="4437000" />
+      <workItem from="1582463101256" duration="2732000" />
+      <workItem from="1582554790425" duration="14000" />
+      <workItem from="1582564939905" duration="2659000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
